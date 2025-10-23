@@ -1,4 +1,4 @@
-```markdown
+
 # Learning Log - M1A3 GitHub Repository Management
 
 **Student:** Jake Fell  
@@ -18,4 +18,4 @@ I've worked on software development in my career previously and GitHub is extrem
 
 ## Open Source Workflow Understanding
 Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
-```
+
