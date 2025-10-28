@@ -23,7 +23,7 @@ This repository demonstrates GitHub skills including:
 - `docs/` - Project documentation and learning reflections
 - `scripts/` - Python scripts for GIS workflows
 - `data/` - Placeholder for future spatial data
-- [https://github.com/jacobf19/hello-gist604b](repository link).
+- (repository link)[https://github.com/jacobf19/hello-gist604b].
 
 ## 🚀 Usage
 To run the hello script:
